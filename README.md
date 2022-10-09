@@ -23,7 +23,7 @@
 
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=devyouth94&tag=TIL&color=dark)](https://github.com/eungyeole/velog-readme-stats)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=devyouth94&tag=TIL&color=dark)](https://velog.io/@devyouth94?tag=TIL)
   
 </div>
 
