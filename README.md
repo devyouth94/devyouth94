@@ -7,6 +7,14 @@
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </p>
 
+<div align="center">
+  <span><strong>Studying...</strong></span>
+  <br/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+</div>
+
+<br/>
+
 <p align="center">
   <a href="https://github.com/devyouth94">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devyouth94&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord&hide=Python" />
