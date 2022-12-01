@@ -28,12 +28,6 @@
 </p>
 
 <div align="center" style="text-align:center">
-  
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=devyouth94&tag=TIL&color=dark)](https://velog.io/@devyouth94?tag=TIL)
-  
-</div>
-
-<div align="center" style="text-align:center">
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevyouth94&count_bg=%23B8B8B8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
   
